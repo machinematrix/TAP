@@ -1,0 +1,6 @@
+data.txt
+.project
+.classpath
+bin/*
+.settings/*
+sql/*
